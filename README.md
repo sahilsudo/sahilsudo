@@ -12,7 +12,7 @@ Here are some ideas to get you started:
  - 👯  open to collaborate
 
 
-	:man_technologist:tech stack:
+ -:man_technologist:tech stack:
  -Java (SpringBoot)
  -C
  -C++(STL)
