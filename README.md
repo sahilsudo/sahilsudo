@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
  - :pencil2: I code in Java, C and C++
  - 🔭  I’m currently working on Java backend projects
- - :pushpin:  Interested in web dev, data, machine learning, embedded, linux kernel dev.
+ - :pushpin:  Interested in web dev, data, embedded, linux kernel dev.
  - 👯  open to collaborate
 
 
