@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
- - :pencil2:Java, C and C++
+ - :pencil2: Java, Python, Javascript, C and C++
  - 🔭 Currently working on Java backend projects
  - :pushpin:  Web dev, Full Stack dev(Spring Boot & React(beginner)), UI/UX, data
  
