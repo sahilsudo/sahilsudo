@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 -->
- - :pencil2: Java, Python, C++, Javascript
+ - :pencil2: Java, Python(beginner), C++, Javascript
  - 🔭 Currently working on Java backend projects
- - :pushpin:  Web dev, Full Stack dev(Spring Boot & React(beginner)), UI/UX, data
+ - :pushpin:  Web dev, Full Stack dev(Spring Boot & React(beginner)), UI/UX
  
 
 
