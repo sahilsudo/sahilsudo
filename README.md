@@ -30,8 +30,8 @@ intellij idea, vscode, git, npm, maven, moqups
 
 **Here's my coding blog :pencil2: www.codewhiletrue.blogspot.com and here are some of the recent articles :**
 
-1.[Fundamental data structures in programming](codewhiletrue.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)\
-2.[Building RESTful web services using Spring Boot](codewhiletrue.blogspot.com/2022/02/building-restful-web-services-using.html)\
+1.[Fundamental data structures in programming](https://codewhiletrue.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)\
+2.[Building RESTful web services using Spring Boot](https://codewhiletrue.blogspot.com/2022/02/building-restful-web-services-using.html)\
 3.[What factors contribute in making good quality software ](https://codewhiletrue.blogspot.com/2022/02/small-things-to-consider-that-greatly.html)
 
 
