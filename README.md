@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 **I'm a full stack developer :computer:**
 
 
-**Here's what i'm good at :**
+**I work on these :**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25" height="25">
 <br/>
