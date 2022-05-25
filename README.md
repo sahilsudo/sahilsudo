@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25" height="25">
 <br/>
-Java, Spring Boot, MySQL, C++, JavaScript, HTML5, CSS, Linux
+Java, Spring Boot, MySQL, C++, JavaScript, HTML5, CSS, UI/UX, Linux
 
 **Here's what i also know :**
 
@@ -32,7 +32,8 @@ intellij idea, vscode, git, npm, maven, moqups
 **Here's my coding blog :pencil2: www.codewhiletrue.blogspot.com and here are some of the recent articles :**
 
 1.[Fundamental data structures in programming](codewhiletrue.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)\
-2.[Building RESTful web services using Spring Boot](codewhiletrue.blogspot.com/2022/02/building-restful-web-services-using.html)
+2.[Building RESTful web services using Spring Boot](codewhiletrue.blogspot.com/2022/02/building-restful-web-services-using.html)\
+3.[What factors contribute in making good quality software ](https://codewhiletrue.blogspot.com/2022/02/small-things-to-consider-that-greatly.html)
 
 
 **Find my leetcode profile here : www.leetcode.com/sahilsudo**    
