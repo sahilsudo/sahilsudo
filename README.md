@@ -17,7 +17,7 @@ Java, Spring Boot, Spring MVC, Spring Data, C++, MySQL, microservices, REST, OOP
 
 **Here's what i also know :**
 
-Junit5, Python, React. 
+Junit5, Python, ![alt text]([http://url/to/img.png](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)) 
 
 
 **I'm familiar with or currently learning these :**
