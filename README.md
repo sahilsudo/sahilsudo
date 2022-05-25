@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-**I'm a full stack developer :computer: looking to start my career.**
+**I'm a full stack developer :computer:**
 
 
 **Here's what i'm good at :**
