@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 
 **Here's what i'm good at :**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25">, <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="25" height="25">, Spring MVC, Spring Data, C++, MySQL, microservices, REST, OOP and clean code, JavaScript, HTML5, CSS, UI/UX.
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25">, <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="25" height="25">, <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25">
 
 **Here's what i also know :**
 
