@@ -1,4 +1,4 @@
-### About
+### Hey there :wave: , welcome to my github page.
 
 <!--
 **sahilsudo/sahilsudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 
 -->
-Hey there, welcome to my github page. 
 
-I'm a full stack developer looking to start my career.
+I'm a full stack developer :computer: looking to start my career.
 
 
 Here's what i'm good at :
