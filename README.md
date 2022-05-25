@@ -24,10 +24,9 @@ Python, React JS, mongoDB, docker, elasticsearch
 
 **Tools i use :**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="25" height="25">
 <br/>
 intellij idea, vscode, git, npm, maven, moqups
-
 
 **Here's my coding blog :pencil2: www.codewhiletrue.blogspot.com and here are some of the recent articles :**
 
