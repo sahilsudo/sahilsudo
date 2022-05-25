@@ -32,7 +32,7 @@ Intellij idea, maven, git, moqups.
 
 **Here's my coding blog :pencil2: www.codewhiletrue.blogspot.com and here are some of the recent articles :**
 
-1.[fundamental data structures in programming](codewhiletrue.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)
+1.[fundamental data structures in programming](codewhiletrue.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)\
 2.[building RESTful web services using Spring Boot](codewhiletrue.blogspot.com/2022/02/building-restful-web-services-using.html)
 
 
