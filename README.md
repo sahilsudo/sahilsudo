@@ -28,7 +28,7 @@ C++, Python, React JS, mongoDB, docker, elasticsearch
 <br/>
 intellij idea, vscode, git, npm, maven, moqups
 
-**Here's my coding blog :pencil2: www.codewhiletrue.blogspot.com and here are some of the recent articles :**
+**Here's my coding blog :pencil2: www.programmingshorts.blogspot.com and here are some of the recent articles :**
 
 1.[Fundamental data structures in programming](https://codewhiletrue.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)\
 2.[Building RESTful web services using Spring Boot](https://codewhiletrue.blogspot.com/2022/02/building-restful-web-services-using.html)\
