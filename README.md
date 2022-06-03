@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br/>
 Java, Spring Boot, MySQL, JavaScript, HTML5, PureCSS, UI/UX, Linux
 
-**Also familiar with:**
+**Also familiar with :**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30" height="30"> <img src="https://github.com/sahilsudo/sahilsudo/blob/main/img/elastic.png" width="30" height="30">
 <br/>
