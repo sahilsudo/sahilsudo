@@ -28,10 +28,6 @@ C++, Python, React JS, mongoDB, docker, elasticsearch
 <br/>
 intellij idea, vscode, git, npm, maven, moqups
 
-**front-end :** \
-1.we-mail(https://wemail-inc.herokuapp.com) \
-2.docare(https://docares.herokuapp.com)
-
 **Here's my coding blog :pencil2: www.programmingshorts.blogspot.com and here are some of the recent articles :**
 
 1.[Fundamental data structures in programming](https://programmingshorts.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)\
