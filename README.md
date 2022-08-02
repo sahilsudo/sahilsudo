@@ -28,12 +28,5 @@ C++, Python, React JS, mongoDB, docker, elasticsearch
 <br/>
 intellij idea, vscode, git, npm, maven, moqups
 
-**Here's my coding blog :pencil2: www.programmingshorts.blogspot.com and here are some of the recent articles :**
-
-1.[Fundamental data structures in programming](https://programmingshorts.blogspot.com/2022/02/how-to-approach-learning-data-structure.html)\
-2.[Building RESTful web services using Spring Boot](https://programmingshorts.blogspot.com/2022/02/building-restful-web-services-using.html)\
-3.[What factors contribute in making good quality software ](https://programmingshorts.blogspot.com/2022/02/small-things-to-consider-that-greatly.html)
-
-
 **Find my leetcode profile here : www.leetcode.com/sahilsudo**    
 
